@@ -1,4 +1,9 @@
 # Housing Price Prediction with Linear Regression
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3a43cea2%2c100%3a185a9d&height=230&section=header&text=Housing+Price+Regression&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Real+Estate+%7c+Regression+%7c+Predictive+Analytics&descSize=16&descAlignY=55&animation=fadeIn" alt="Housing Price Regression project banner" width="100%" />
+</p>
+
+<p align="center"><em>Project-themed banner generated from an internet-hosted image service for a cleaner GitHub presentation.</em></p>
 
 A compact regression project that explores housing data and trains a scikit-learn model to estimate home prices from numerical property features.
 
